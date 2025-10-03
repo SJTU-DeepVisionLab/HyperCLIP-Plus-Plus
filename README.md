@@ -1,2 +1,2 @@
-# HyperCLIP-Plus-Plus
+# HyperCLIP++
 Official code for the journal extension of HyperCLIP (CVPR 2025).
